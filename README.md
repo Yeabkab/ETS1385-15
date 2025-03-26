@@ -3,7 +3,7 @@
 # example :
     
 ```name = "STRING ASSIGNMENT"
-
+name = "STRING METHODS"
 result = name.isupper()
 print(result) # True is expected rrsult
 ```
